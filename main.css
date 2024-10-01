@@ -15,7 +15,7 @@
   <h1>Welcome to Your Base</h1>
   <p>Manage your resources and build your empire from here.</p>
   <h2>Resources</h2>
-  <p>Food: <span id="food-count">100</span></p>
+  <p>Food: <span id="food-count">170</span></p>
   <p>Stone: <span id="stone-count">0</span></p>
   <h2>Buildings</h2>
   <button class="building-button" onclick="buildStructure('house')">Build House (10 stone)</button>
